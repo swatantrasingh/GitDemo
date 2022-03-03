@@ -13,7 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+// feature1
+    func feature1(){
+        
+    }
 
 }
 
