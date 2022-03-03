@@ -6,3 +6,4 @@
 //
 
 import Foundation
+var ff222:String=""
