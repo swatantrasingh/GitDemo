@@ -17,12 +17,6 @@ class ViewController: UIViewController {
     func feature1(){
         
     }
-    // feature-d
-        func featuredd(){
-    // feature2
-        func feature2(){
-            
-        }
-
+  
 }
 
