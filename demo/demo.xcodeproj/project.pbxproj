@@ -13,8 +13,6 @@
 		8473728E27D13D3400C7DEBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8473728C27D13D3400C7DEBB /* Main.storyboard */; };
 		8473729027D13D3600C7DEBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8473728F27D13D3600C7DEBB /* Assets.xcassets */; };
 		8473729327D13D3600C7DEBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8473729127D13D3600C7DEBB /* LaunchScreen.storyboard */; };
-		8473729B27D13D4700C7DEBB /* devm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8473729A27D13D4700C7DEBB /* devm.swift */; };
-		8473729F27D13E4000C7DEBB /* dem2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8473729E27D13E4000C7DEBB /* dem2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +24,6 @@
 		8473728F27D13D3600C7DEBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8473729227D13D3600C7DEBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8473729427D13D3600C7DEBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8473729A27D13D4700C7DEBB /* devm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = devm.swift; sourceTree = "<group>"; };
-		8473729E27D13E4000C7DEBB /* dem2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dem2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +59,6 @@
 				8473728627D13D3400C7DEBB /* AppDelegate.swift */,
 				8473728827D13D3400C7DEBB /* SceneDelegate.swift */,
 				8473728A27D13D3400C7DEBB /* ViewController.swift */,
-				8473729A27D13D4700C7DEBB /* devm.swift */,
-				8473729E27D13E4000C7DEBB /* dem2.swift */,
 				8473728C27D13D3400C7DEBB /* Main.storyboard */,
 				8473728F27D13D3600C7DEBB /* Assets.xcassets */,
 				8473729127D13D3600C7DEBB /* LaunchScreen.storyboard */,
@@ -145,9 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8473728B27D13D3400C7DEBB /* ViewController.swift in Sources */,
-				8473729B27D13D4700C7DEBB /* devm.swift in Sources */,
 				8473728727D13D3400C7DEBB /* AppDelegate.swift in Sources */,
-				8473729F27D13E4000C7DEBB /* dem2.swift in Sources */,
 				8473728927D13D3400C7DEBB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
