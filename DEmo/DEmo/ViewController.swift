@@ -21,5 +21,9 @@ class ViewController: UIViewController {
         func feature2(){
             
         }
+    // feature3
+        func feature3(){
+            
+        }
 }
 
