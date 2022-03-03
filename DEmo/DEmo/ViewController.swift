@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func feature1(){
         
     }
+    // feature2
+        func feature2(){
+            
+        }
 
 }
 
